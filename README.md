@@ -5,10 +5,10 @@
 **Installation**
 
 ### Clone the repository
-    git clone https://github.com/itsAnjanaMourya/Task-Manager.git
+    git clone https://github.com/itsAnjanaMourya/Notes-App-WebSocket.git
 
 ### Navigate to the project directory
-    cd NotesApplication
+    cd Notes-App-WebSocket
 
 ### Navigate to the backend directory
     cd backend
